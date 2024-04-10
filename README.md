@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi 👋, I'm May Oo Zin.
+
+A passionate backend developer from Myanmar
+
+🔭 I’m currently working on Ace Data Systems
+
+🌱 I’m currently learning C#.Net , .Net Core, Blazor
+
+
 
 <!--
 **mayoozin/mayoozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
