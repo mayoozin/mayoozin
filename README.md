@@ -1,10 +1,10 @@
-Hi 👋, I'm May Oo Zin.
+Hello Friends 👋, I'm May Oo. 👋
 
 A passionate backend developer from Myanmar
 
 🔭 I’m currently working on Ace Data Systems
 
-🌱 I’m currently learning C#.Net , .Net Core, Blazor
+🌱 I’m currently learning ⚡ C#.Net , .Net Core, Blazor⚡
 
 
 
