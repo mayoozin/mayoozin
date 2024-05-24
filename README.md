@@ -13,7 +13,6 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="35" alt="Blazor logo" />
